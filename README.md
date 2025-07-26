@@ -43,7 +43,3 @@ Dashboard:
 ## 📁 Files Included
 - cafe-coffee-sales-dashboard.xlsx – Main Excel file with charts and calculations
 - cafe-sales-dataset.csv – Raw dataset used for analysis
-
----
-
-*Note*: Replace cafe-coffee-dashboard.png with your dashboard screenshot file name when you upload it to GitHub.
